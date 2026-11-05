@@ -1,0 +1,11 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Seguridad (por si se crea fuera de proyecto/)
+.env
